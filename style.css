@@ -13,7 +13,6 @@ p {
 #nav {
   background-color: #333;
   padding: 15px;
-  color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,6 +20,7 @@ p {
 
 h2 {
   font-weight: 600;
+    color: white;
 }
 
 h5 {
@@ -44,9 +44,6 @@ h5 {
   margin-right: 10px;
 }
 
-#nav #btnh {
-  background-color: #f0ad4e;
-}
 
 /* Main Section */
 #main {
