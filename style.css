@@ -20,7 +20,7 @@ p {
 
 h2 {
   font-weight: 600;
-    color: white;
+  color: white;
 }
 
 h5 {
@@ -43,7 +43,6 @@ h5 {
   width: 200px;
   margin-right: 10px;
 }
-
 
 /* Main Section */
 #main {
